@@ -19,8 +19,15 @@ _(Espacio para instrucciones de configuración y ejecución)_
 
 ## Informe Final
 
-El informe final del proyecto se encuentra en el directorio `report/`. Contiene un análisis detallado de los resultados obtenidos, comparaciones entre las diferentes configuraciones de caché, y respuestas a las preguntas planteadas en el enunciado del proyecto.
+El informe final del proyecto se encuentra en el directorio `report/`. El cual contiene un análisis de los resultados obtenidos, comparaciones entre las diferentes configuraciones de caché, y respuestas a las preguntas planteadas en el enunciado del proyecto.
 
 ## Contacto
 
-_(Espacio para información de contacto)_ //puedes hacer una base para colocar los nombres y correos de 2 personas?
+Si tienes preguntas o comentarios sobre este proyecto, no dudes en ponerte en contacto con nosotros:
+
+- **José Martín Berríos Piña**
+  - Correo electrónico: jose.berrios1@mail.udp.cl
+
+- **Renato Óscar Benjamín Contreras Carvajal**
+  - Correo electrónico: renato.contreras@mail.udp.cl
+
