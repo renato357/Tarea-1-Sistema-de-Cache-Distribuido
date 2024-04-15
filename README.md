@@ -21,14 +21,6 @@ _(Espacio para instrucciones de configuración y ejecución)_
 
 El informe final del proyecto se encuentra en el directorio `report/`. Contiene un análisis detallado de los resultados obtenidos, comparaciones entre las diferentes configuraciones de caché, y respuestas a las preguntas planteadas en el enunciado del proyecto.
 
-## Contribución
-
-_(Espacio para instrucciones de contribución)_
-
-## Licencia
-
-_(Espacio para información sobre la licencia)_
-
 ## Contacto
 
-_(Espacio para información de contacto)_
+_(Espacio para información de contacto)_ //puedes hacer una base para colocar los nombres y correos de 2 personas?
