@@ -1,4 +1,4 @@
-# TAREA 1: Sistema de Caché para la Universidad Digna Pública
+# TAREA 1: Sistema de Caché
 
 Este repositorio contiene el código y los recursos relacionados con el proyecto de implementación y evaluación de un sistema de caché para mejorar el rendimiento del sistema de búsqueda de salas en la Universidad Digna Pública.
 
