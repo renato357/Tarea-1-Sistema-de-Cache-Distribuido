@@ -9,7 +9,7 @@ services:
       - ./data/redis:/bitnami/redis/data
     ports:
       - "6379:6379"
-    user: root  # Ejecuta el contenedor como usuario root para asegurarte de que tenga los permisos adecuados
+    user: root
 
   backend:
     build:
