@@ -1,0 +1,26 @@
+version: "3.8"
+services:
+  caching:
+    image: bitnami/redis:latest
+    restart: always
+    environment:
+      - ALLOW_EMPTY_PASSWORD=yes
+    volumes:
+      - ./data/redis:/bitnami/redis/data
+    ports:
+      - "6379:6379"
+    user: root  # Ejecuta el contenedor como usuario root para asegurarte de que tenga los permisos adecuados
+
+  backend:
+    build:
+      context: ./api
+      dockerfile: Dockerfile
+    restart: always
+    depends_on:
+      - caching
+    environment:
+      - REDIS_HOST=caching
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./api/index.js:/app/index.js
