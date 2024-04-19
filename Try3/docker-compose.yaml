@@ -1,16 +1,14 @@
 version: '3.9'
 
 services:
-  db:
-    image: postgres:alpine
+  client:
+    build: api-client
     restart: always
-    environment:
-      POSTGRES_USER: user
-      POSTGRES_PASSWORD: password
-      POSTGRES_DB: example
+    ports:
+      - 3000:3000
     volumes:
-      - ./db:/docker-entrypoint-initdb.d
- 
+      - ./proto:/usr/src/app/proto
+  
   server:
     build: server
     restart: always
@@ -21,11 +19,13 @@ services:
       PGDATABASE: example
     volumes:
       - ./proto:/usr/src/app/proto
-  
-  client:
-    build: api-client
+    
+  db:
+    image: postgres:alpine
     restart: always
-    ports:
-      - 3000:3000
+    environment:
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: example
     volumes:
-      - ./proto:/usr/src/app/proto
+      - ./db:/docker-entrypoint-initdb.d
