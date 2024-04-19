@@ -23,7 +23,7 @@ services:
       - ./proto:/usr/src/app/proto
   
   client:
-    build: client
+    build: api-client
     restart: always
     ports:
       - 3000:3000
