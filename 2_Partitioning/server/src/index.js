@@ -3,17 +3,6 @@ const grpc = require('@grpc/grpc-js');
 const protoLoader = require('@grpc/proto-loader');
 const PROTO_PATH = __dirname + "/../proto/example.proto";
 
-const server = new grpc.Server();
-
-server.addService(example.Example.service, {
-    getAll: getAll,
-    getById: getById,
-});
-
-server.bindAsync('0.0.0.0:50051', grpc.ServerCredentials.createInsecure(), () => {
-    console.log("Server running on port 50051");
-});
-
 const connect_db = async () => {
     const client = new pg.Client();
     await client.connect();
@@ -55,3 +44,14 @@ const getById = async function(call, callback) {
         rol: persona.rol,
     });
 };
+
+const server = new grpc.Server();
+
+server.addService(example.Example.service, {
+    getAll: getAll,
+    getById: getById,
+});
+
+server.bindAsync('0.0.0.0:50051', grpc.ServerCredentials.createInsecure(), () => {
+    console.log("Server running on port 50051");
+});
