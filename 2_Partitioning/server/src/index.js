@@ -3,6 +3,13 @@ const grpc = require('@grpc/grpc-js');
 const protoLoader = require('@grpc/proto-loader');
 const PROTO_PATH = __dirname + "/../proto/example.proto";
 
+const connect_db = async () => {
+    const client = new pg.Client();
+    await client.connect();
+
+    return client;
+}
+
 const packageDefinition = protoLoader.loadSync(PROTO_PATH, {
     keepCase: true,
     longs: String,
@@ -13,13 +20,6 @@ const packageDefinition = protoLoader.loadSync(PROTO_PATH, {
 
 const protoDescriptor = grpc.loadPackageDefinition(packageDefinition);
 const example = protoDescriptor.example;
-
-const connect_db = async () => {
-    const client = new pg.Client();
-    await client.connect();
-
-    return client;
-}
 
 const getAll = async function(_, callback) {
     const pg_client = await connect_db();
