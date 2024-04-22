@@ -9,13 +9,11 @@ El proyecto tiene como objetivo principal mejorar la eficiencia y velocidad del 
 ## Estructura del Repositorio
 
 - `src/`: Directorio que contiene el código fuente del sistema de caché implementado.
-- `datasets/`: Directorio que contiene los conjuntos de datos utilizados para las pruebas.
-- `docs/`: Directorio que contiene la documentación relacionada con el proyecto.
 - `report/`: Directorio que contiene el informe final del proyecto.
 
-## Configuración y Ejecución
+## Video
 
-_(Espacio para instrucciones de configuración y ejecución)_
+El enlace para ver el vídeo que muestra el funcionamiento del código con explicaciones es: https://drive.google.com/file/d/1ZGgol_dI9wat6oivdzzq3Bci1xQscC4z/view?ts=6625dcd6
 
 ## Informe Final
 
