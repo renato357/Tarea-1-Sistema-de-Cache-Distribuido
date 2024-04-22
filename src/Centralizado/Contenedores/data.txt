@@ -1,0 +1,4164 @@
+Datos sacados de PostgreSQL en: 24ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 0
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 0
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 0
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 0
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 0
+Datos sacados de PostgreSQL en: 14ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 0
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 0
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 0
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 0
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 0
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 0
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 0
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 0
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 0
+site {
+  rowid: 9115
+  kepoi_name: &#34;K08237.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 0
+site {
+  rowid: 9193
+  kepoi_name: &#34;K08144.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 1
+site {
+  rowid: 9193
+  kepoi_name: &#34;K08144.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 1
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 1
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 1
+site {
+  rowid: 8935
+  kepoi_name: &#34;K08201.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 1
+site {
+  rowid: 9332
+  kepoi_name: &#34;K08273.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 1
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 1
+site {
+  rowid: 9151
+  kepoi_name: &#34;K08241.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 1
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 1
+site {
+  rowid: 9147
+  kepoi_name: &#34;K08136.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 1
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 1
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 1
+site {
+  rowid: 9502
+  kepoi_name: &#34;K08297.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 1
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 1
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 1
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 1
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 1
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 2
+Datos sacados de PostgreSQL en: 4ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 2
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 2
+site {
+  rowid: 9370
+  kepoi_name: &#34;K08166.01&#34;
+}
+site {
+  rowid: 9371
+  kepoi_name: &#34;K08166.02&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 3
+site {
+  rowid: 9115
+  kepoi_name: &#34;K08237.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 3
+site {
+  rowid: 9143
+  kepoi_name: &#34;K08032.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 3
+site {
+  rowid: 9140
+  kepoi_name: &#34;K08029.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 3
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 3
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 3
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 3
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 3
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 3
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 3
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 3
+site {
+  rowid: 9141
+  kepoi_name: &#34;K08030.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 3
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 3
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 3
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 4
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 4
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 4
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 4
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 4
+site {
+  rowid: 9046
+  kepoi_name: &#34;K08222.01&#34;
+}
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 4
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 4
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 4
+site {
+  rowid: 9236
+  kepoi_name: &#34;K08148.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 4
+site {
+  rowid: 9103
+  kepoi_name: &#34;K08022.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 4
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 4
+site {
+  rowid: 9106
+  kepoi_name: &#34;K08125.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 4
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 4
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 4
+site {
+  rowid: 9067
+  kepoi_name: &#34;K08015.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 4
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 4
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 4
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 4
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 4
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 4
+site {
+  rowid: 9411
+  kepoi_name: &#34;K08172.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 4
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 4
+site {
+  rowid: 9304
+  kepoi_name: &#34;K08171.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 4
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 4
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 4
+site {
+  rowid: 9374
+  kepoi_name: &#34;K08275.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 4
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 4
+site {
+  rowid: 9346
+  kepoi_name: &#34;K08192.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 4
+site {
+  rowid: 9145
+  kepoi_name: &#34;K08134.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 4
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 4
+site {
+  rowid: 9235
+  kepoi_name: &#34;K08147.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 4
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 4
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 4
+Datos sacados de PostgreSQL en: 8ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 4
+site {
+  rowid: 9045
+  kepoi_name: &#34;K08221.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 4
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 4
+Datos sacados de PostgreSQL en: 15ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 4
+Datos sacados de PostgreSQL en: 9ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 4
+Datos sacados de PostgreSQL en: 8ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 4
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 4
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 4
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 4
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 5
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 5
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 5
+site {
+  rowid: 9258
+  kepoi_name: &#34;K08132.01&#34;
+}
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 5
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 5
+site {
+  rowid: 9273
+  kepoi_name: &#34;K08049.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 5
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 5
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 6
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 6
+site {
+  rowid: 9069
+  kepoi_name: &#34;K08018.01&#34;
+}
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 6
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 6
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 6
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 6
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 6
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 7
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 7
+site {
+  rowid: 9008
+  kepoi_name: &#34;K08107.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 7
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 7
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 7
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 7
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 7
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 7
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 7
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 7
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 7
+site {
+  rowid: 9168
+  kepoi_name: &#34;K08026.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 7
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 7
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 7
+site {
+  rowid: 9138
+  kepoi_name: &#34;K08027.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 7
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 7
+site {
+  rowid: 9420
+  kepoi_name: &#34;K08285.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 7
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 7
+site {
+  rowid: 8978
+  kepoi_name: &#34;K08210.01&#34;
+}
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 7
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 7
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 7
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 7
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 8
+site {
+  rowid: 9069
+  kepoi_name: &#34;K08018.01&#34;
+}
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 8
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 8
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 8
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 8
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 8
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 8
+site {
+  rowid: 9100
+  kepoi_name: &#34;K08019.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 8
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 8
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 8
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 9
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 9
+site {
+  rowid: 9324
+  kepoi_name: &#34;K08160.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 9
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 9
+site {
+  rowid: 9460
+  kepoi_name: &#34;K08184.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 9
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 9
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 9
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 9
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 9
+site {
+  rowid: 9034
+  kepoi_name: &#34;K08007.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 9
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 9
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 9
+site {
+  rowid: 9170
+  kepoi_name: &#34;K08060.01&#34;
+}
+site {
+  rowid: 9211
+  kepoi_name: &#34;K08060.02&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 10
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 10
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 10
+Datos sacados de PostgreSQL en: 11ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 10
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 10
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 10
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 11
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 11
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 11
+site {
+  rowid: 9320
+  kepoi_name: &#34;K08058.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 11
+site {
+  rowid: 9345
+  kepoi_name: &#34;K08190.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 11
+site {
+  rowid: 9326
+  kepoi_name: &#34;K08162.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 12
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 12
+site {
+  rowid: 9257
+  kepoi_name: &#34;K08129.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 12
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 13
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 13
+site {
+  rowid: 9102
+  kepoi_name: &#34;K08021.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 13
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 13
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 13
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 13
+site {
+  rowid: 9194
+  kepoi_name: &#34;K08145.01&#34;
+}
+site {
+  rowid: 9233
+  kepoi_name: &#34;K08145.02&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 13
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 13
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 13
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 13
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 13
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 14
+site {
+  rowid: 8935
+  kepoi_name: &#34;K08201.01&#34;
+}
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 14
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 14
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 14
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 14
+site {
+  rowid: 9242
+  kepoi_name: &#34;K08259.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 15
+site {
+  rowid: 9460
+  kepoi_name: &#34;K08184.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 15
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 15
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 15
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 15
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 15
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 15
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 15
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 15
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 15
+Datos sacados de PostgreSQL en: 10ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 15
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 16
+site {
+  rowid: 9257
+  kepoi_name: &#34;K08129.01&#34;
+}
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 16
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 16
+site {
+  rowid: 9281
+  kepoi_name: &#34;K08155.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 16
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 16
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 17
+Datos sacados de PostgreSQL en: 9ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 17
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 17
+site {
+  rowid: 9436
+  kepoi_name: &#34;K08287.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 17
+site {
+  rowid: 9149
+  kepoi_name: &#34;K08138.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 17
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 17
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 17
+site {
+  rowid: 9075
+  kepoi_name: &#34;K08123.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 17
+site {
+  rowid: 9287
+  kepoi_name: &#34;K08264.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 17
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 17
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 17
+site {
+  rowid: 9369
+  kepoi_name: &#34;K08165.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 17
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 17
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 17
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 17
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 17
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 17
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 17
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 18
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 19
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 19
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 20
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 20
+site {
+  rowid: 9451
+  kepoi_name: &#34;K08078.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 20
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 20
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 20
+site {
+  rowid: 9152
+  kepoi_name: &#34;K08242.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 20
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 20
+site {
+  rowid: 9325
+  kepoi_name: &#34;K08161.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 20
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 20
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 21
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 21
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 22
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 22
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 22
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 22
+site {
+  rowid: 9286
+  kepoi_name: &#34;K08263.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 22
+site {
+  rowid: 9274
+  kepoi_name: &#34;K08050.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 23
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 23
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 24
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 24
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 24
+site {
+  rowid: 9240
+  kepoi_name: &#34;K08257.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 24
+site {
+  rowid: 9198
+  kepoi_name: &#34;K08250.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 24
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 25
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 26
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 26
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 27
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 28
+site {
+  rowid: 9193
+  kepoi_name: &#34;K08144.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 29
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 30
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 30
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 31
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 31
+site {
+  rowid: 9456
+  kepoi_name: &#34;K08179.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 31
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 31
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 31
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 31
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 31
+site {
+  rowid: 9496
+  kepoi_name: &#34;K08185.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 31
+site {
+  rowid: 9039
+  kepoi_name: &#34;K08112.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 32
+site {
+  rowid: 9274
+  kepoi_name: &#34;K08050.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 32
+site {
+  rowid: 9196
+  kepoi_name: &#34;K08248.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 32
+site {
+  rowid: 9328
+  kepoi_name: &#34;K08269.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 32
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 32
+site {
+  rowid: 9033
+  kepoi_name: &#34;K08006.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 32
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 32
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 32
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 32
+site {
+  rowid: 9139
+  kepoi_name: &#34;K08028.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 33
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 34
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 34
+site {
+  rowid: 9438
+  kepoi_name: &#34;K08232.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 34
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 34
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 34
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 34
+site {
+  rowid: 9498
+  kepoi_name: &#34;K08187.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 35
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 35
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 36
+site {
+  rowid: 9145
+  kepoi_name: &#34;K08134.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 36
+site {
+  rowid: 9490
+  kepoi_name: &#34;K08084.01&#34;
+}
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 36
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 36
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 37
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 37
+site {
+  rowid: 9230
+  kepoi_name: &#34;K08043.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 37
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 37
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 37
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 37
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 37
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 37
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 37
+site {
+  rowid: 9216
+  kepoi_name: &#34;K08047.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 38
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 38
+site {
+  rowid: 9155
+  kepoi_name: &#34;K08245.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 39
+Datos sacados de PostgreSQL en: 8ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 39
+Datos sacados de PostgreSQL en: 8ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 39
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 39
+site {
+  rowid: 9006
+  kepoi_name: &#34;K08105.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 39
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 39
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 39
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 40
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 40
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 40
+site {
+  rowid: 9300
+  kepoi_name: &#34;K08150.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 40
+site {
+  rowid: 9239
+  kepoi_name: &#34;K08256.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 41
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 41
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 41
+site {
+  rowid: 9434
+  kepoi_name: &#34;K08281.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 41
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 41
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 42
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 42
+site {
+  rowid: 9238
+  kepoi_name: &#34;K08255.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 42
+site {
+  rowid: 9107
+  kepoi_name: &#34;K08126.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 42
+site {
+  rowid: 9042
+  kepoi_name: &#34;K08115.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 43
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 43
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 43
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 43
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 44
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 44
+site {
+  rowid: 9091
+  kepoi_name: &#34;K08143.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 44
+site {
+  rowid: 9112
+  kepoi_name: &#34;K08234.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 45
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 46
+site {
+  rowid: 9369
+  kepoi_name: &#34;K08165.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 46
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 46
+site {
+  rowid: 9070
+  kepoi_name: &#34;K08118.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 46
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 46
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 46
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 47
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 48
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 49
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 50
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 51
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 51
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 51
+Datos sacados de PostgreSQL en: 10ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 51
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 51
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 51
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 52
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 52
+Datos sacados de PostgreSQL en: 4ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 52
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 52
+site {
+  rowid: 9454
+  kepoi_name: &#34;K08081.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 52
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 52
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 52
+site {
+  rowid: 9344
+  kepoi_name: &#34;K08180.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 52
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 52
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 53
+site {
+  rowid: 9216
+  kepoi_name: &#34;K08047.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 54
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 55
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 55
+site {
+  rowid: 8936
+  kepoi_name: &#34;K08202.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 55
+site {
+  rowid: 9348
+  kepoi_name: &#34;K08211.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 56
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 56
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 56
+site {
+  rowid: 9532
+  kepoi_name: &#34;K08093.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 56
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 56
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 56
+site {
+  rowid: 9243
+  kepoi_name: &#34;K08260.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 56
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 56
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 57
+site {
+  rowid: 9243
+  kepoi_name: &#34;K08260.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 57
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 57
+site {
+  rowid: 9079
+  kepoi_name: &#34;K08229.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 57
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 57
+site {
+  rowid: 9071
+  kepoi_name: &#34;K08119.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 57
+site {
+  rowid: 9284
+  kepoi_name: &#34;K08261.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 58
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 58
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 58
+site {
+  rowid: 8938
+  kepoi_name: &#34;K08204.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 58
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 59
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 59
+site {
+  rowid: 9493
+  kepoi_name: &#34;K08087.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 60
+site {
+  rowid: 9493
+  kepoi_name: &#34;K08087.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 60
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 60
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 61
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 62
+site {
+  rowid: 9102
+  kepoi_name: &#34;K08021.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 62
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 62
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 62
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 62
+site {
+  rowid: 9015
+  kepoi_name: &#34;K08216.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 62
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 63
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 63
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 64
+site {
+  rowid: 9300
+  kepoi_name: &#34;K08150.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 64
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 64
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 64
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 64
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 65
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 66
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 67
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 68
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 69
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 69
+site {
+  rowid: 9109
+  kepoi_name: &#34;K08128.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 69
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 69
+Datos sacados de PostgreSQL en: 10ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 69
+Datos sacados de PostgreSQL en: 10ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 69
+Datos sacados de PostgreSQL en: 9ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 69
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 70
+site {
+  rowid: 9103
+  kepoi_name: &#34;K08022.01&#34;
+}
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 70
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 71
+site {
+  rowid: 9370
+  kepoi_name: &#34;K08166.01&#34;
+}
+site {
+  rowid: 9371
+  kepoi_name: &#34;K08166.02&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 71
+site {
+  rowid: 8967
+  kepoi_name: &#34;K08097.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 72
+site {
+  rowid: 9320
+  kepoi_name: &#34;K08058.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 72
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 73
+site {
+  rowid: 9045
+  kepoi_name: &#34;K08221.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 73
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 74
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 74
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 75
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 76
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 77
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 77
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 78
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 79
+site {
+  rowid: 9243
+  kepoi_name: &#34;K08260.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 80
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 80
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 80
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 80
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 81
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 82
+site {
+  rowid: 9242
+  kepoi_name: &#34;K08259.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 82
+site {
+  rowid: 9254
+  kepoi_name: &#34;K08096.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 82
+site {
+  rowid: 9066
+  kepoi_name: &#34;K08014.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 82
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 82
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 82
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 82
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 82
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 82
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 82
+site {
+  rowid: 9260
+  kepoi_name: &#34;K08095.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 83
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 84
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 84
+site {
+  rowid: 9394
+  kepoi_name: &#34;K08170.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 84
+site {
+  rowid: 8969
+  kepoi_name: &#34;K08100.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 84
+site {
+  rowid: 9272
+  kepoi_name: &#34;K08048.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 85
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 86
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 86
+site {
+  rowid: 9351
+  kepoi_name: &#34;K08164.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 86
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 86
+site {
+  rowid: 9302
+  kepoi_name: &#34;K08156.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 86
+site {
+  rowid: 9040
+  kepoi_name: &#34;K08113.01&#34;
+}
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 86
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 86
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 87
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 87
+site {
+  rowid: 9305
+  kepoi_name: &#34;K08117.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 87
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 87
+site {
+  rowid: 9191
+  kepoi_name: &#34;K08141.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 88
+site {
+  rowid: 8936
+  kepoi_name: &#34;K08202.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 88
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 88
+site {
+  rowid: 9537
+  kepoi_name: &#34;K08196.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 89
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 90
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 91
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 91
+site {
+  rowid: 9418
+  kepoi_name: &#34;K08283.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 92
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 92
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 93
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 93
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 93
+site {
+  rowid: 9241
+  kepoi_name: &#34;K08258.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 93
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 93
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 93
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 93
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 94
+site {
+  rowid: 9155
+  kepoi_name: &#34;K08245.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 95
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 95
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 96
+site {
+  rowid: 9141
+  kepoi_name: &#34;K08030.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 97
+site {
+  rowid: 9243
+  kepoi_name: &#34;K08260.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 97
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 97
+site {
+  rowid: 9195
+  kepoi_name: &#34;K08247.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 98
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 98
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 99
+site {
+  rowid: 9151
+  kepoi_name: &#34;K08241.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 99
+site {
+  rowid: 8972
+  kepoi_name: &#34;K08103.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 99
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 99
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 100
+site {
+  rowid: 9102
+  kepoi_name: &#34;K08021.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 100
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 101
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 102
+site {
+  rowid: 9100
+  kepoi_name: &#34;K08019.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 102
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 103
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 103
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 103
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 103
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 103
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 104
+site {
+  rowid: 9328
+  kepoi_name: &#34;K08269.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 104
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 104
+site {
+  rowid: 8971
+  kepoi_name: &#34;K08102.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 104
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 104
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 104
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 104
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 105
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 106
+site {
+  rowid: 9170
+  kepoi_name: &#34;K08060.01&#34;
+}
+site {
+  rowid: 9211
+  kepoi_name: &#34;K08060.02&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 107
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 107
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 107
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 107
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 108
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 109
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 110
+Datos sacados de PostgreSQL en: 10ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 110
+Datos sacados de PostgreSQL en: 12ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 110
+site {
+  rowid: 9232
+  kepoi_name: &#34;K08045.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 111
+site {
+  rowid: 9147
+  kepoi_name: &#34;K08136.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 112
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 112
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 112
+site {
+  rowid: 9318
+  kepoi_name: &#34;K08056.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 112
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 113
+site {
+  rowid: 9258
+  kepoi_name: &#34;K08132.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 113
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 114
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 114
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 114
+site {
+  rowid: 9321
+  kepoi_name: &#34;K08059.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 115
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 115
+site {
+  rowid: 9011
+  kepoi_name: &#34;K08212.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 115
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 115
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 115
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 116
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 117
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 117
+site {
+  rowid: 9016
+  kepoi_name: &#34;K08217.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 117
+site {
+  rowid: 9499
+  kepoi_name: &#34;K08188.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 118
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 119
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 119
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 119
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 120
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 120
+site {
+  rowid: 9037
+  kepoi_name: &#34;K08011.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 121
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 122
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 122
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 122
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 122
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 122
+site {
+  rowid: 8977
+  kepoi_name: &#34;K08209.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 123
+site {
+  rowid: 9286
+  kepoi_name: &#34;K08263.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 124
+Datos sacados de PostgreSQL en: 9ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 124
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 125
+Datos sacados de PostgreSQL en: 10ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 125
+site {
+  rowid: 9391
+  kepoi_name: &#34;K08238.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 126
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 127
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 128
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 128
+site {
+  rowid: 9363
+  kepoi_name: &#34;K08063.01&#34;
+}
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 128
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 128
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 129
+Datos sacados de PostgreSQL en: 12ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 129
+site {
+  rowid: 9199
+  kepoi_name: &#34;K08251.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 129
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 129
+site {
+  rowid: 9144
+  kepoi_name: &#34;K08133.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 130
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 130
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 131
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 131
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 132
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 133
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 133
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 133
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 134
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 134
+site {
+  rowid: 8934
+  kepoi_name: &#34;K08199.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 135
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 136
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 136
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 136
+site {
+  rowid: 9186
+  kepoi_name: &#34;K08036.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 136
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 137
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 138
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 138
+site {
+  rowid: 9229
+  kepoi_name: &#34;K08042.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 138
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 138
+site {
+  rowid: 9032
+  kepoi_name: &#34;K08005.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 138
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 138
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 139
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 140
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 140
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 141
+site {
+  rowid: 9040
+  kepoi_name: &#34;K08113.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 142
+site {
+  rowid: 9006
+  kepoi_name: &#34;K08105.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 143
+site {
+  rowid: 9287
+  kepoi_name: &#34;K08264.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 144
+site {
+  rowid: 9272
+  kepoi_name: &#34;K08048.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 145
+site {
+  rowid: 9186
+  kepoi_name: &#34;K08036.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 146
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 147
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 147
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 148
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 149
+site {
+  rowid: 9235
+  kepoi_name: &#34;K08147.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 149
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 150
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 150
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 150
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 151
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 151
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 151
+site {
+  rowid: 9078
+  kepoi_name: &#34;K08228.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 152
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 152
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 152
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 152
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 153
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 153
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 154
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 155
+Datos sacados de PostgreSQL en: 10ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 155
+site {
+  rowid: 9531
+  kepoi_name: &#34;K08092.01&#34;
+}
+Datos sacados de PostgreSQL en: 10ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 155
+Datos sacados de PostgreSQL en: 9ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 155
+site {
+  rowid: 9435
+  kepoi_name: &#34;K08286.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 156
+site {
+  rowid: 9499
+  kepoi_name: &#34;K08188.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 156
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 156
+site {
+  rowid: 9072
+  kepoi_name: &#34;K08120.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 157
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 158
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 159
+site {
+  rowid: 9436
+  kepoi_name: &#34;K08287.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 159
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 160
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 161
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 161
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 162
+site {
+  rowid: 9436
+  kepoi_name: &#34;K08287.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 162
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 163
+site {
+  rowid: 9498
+  kepoi_name: &#34;K08187.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 163
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 163
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 164
+site {
+  rowid: 9272
+  kepoi_name: &#34;K08048.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 164
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 164
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 164
+site {
+  rowid: 9282
+  kepoi_name: &#34;K08157.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 164
+site {
+  rowid: 9005
+  kepoi_name: &#34;K08104.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 164
+site {
+  rowid: 9188
+  kepoi_name: &#34;K08039.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 164
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 164
+site {
+  rowid: 9416
+  kepoi_name: &#34;K08177.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 165
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 166
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 167
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 168
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 168
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 169
+site {
+  rowid: 9078
+  kepoi_name: &#34;K08228.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 169
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 170
+site {
+  rowid: 9370
+  kepoi_name: &#34;K08166.01&#34;
+}
+site {
+  rowid: 9371
+  kepoi_name: &#34;K08166.02&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 171
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 171
+site {
+  rowid: 9189
+  kepoi_name: &#34;K08139.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 172
+site {
+  rowid: 9147
+  kepoi_name: &#34;K08136.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 172
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 172
+site {
+  rowid: 9317
+  kepoi_name: &#34;K08055.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 173
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 173
+site {
+  rowid: 9171
+  kepoi_name: &#34;K08025.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 173
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 173
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 174
+Datos sacados de PostgreSQL en: 9ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 174
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 175
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 176
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 177
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 177
+site {
+  rowid: 9217
+  kepoi_name: &#34;K08054.01&#34;
+}
+Datos sacados de PostgreSQL en: 8ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 177
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 177
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 177
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 178
+site {
+  rowid: 9016
+  kepoi_name: &#34;K08217.01&#34;
+}
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 178
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 178
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 179
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 180
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 181
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 181
+site {
+  rowid: 9187
+  kepoi_name: &#34;K08037.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 181
+site {
+  rowid: 9007
+  kepoi_name: &#34;K08106.01&#34;
+}
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 181
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 181
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 182
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 183
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 184
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 184
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 184
+site {
+  rowid: 9367
+  kepoi_name: &#34;K08067.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 184
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 184
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 184
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 185
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 186
+site {
+  rowid: 9324
+  kepoi_name: &#34;K08160.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 187
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 188
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 189
+site {
+  rowid: 9438
+  kepoi_name: &#34;K08232.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 190
+site {
+  rowid: 9305
+  kepoi_name: &#34;K08117.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 190
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 190
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 191
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 191
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 191
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 191
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 191
+site {
+  rowid: 9414
+  kepoi_name: &#34;K08175.01&#34;
+}
+Datos sacados de PostgreSQL en: 8ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 191
+site {
+  rowid: 9478
+  kepoi_name: &#34;K08252.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 192
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 193
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 193
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 194
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 195
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 195
+site {
+  rowid: 9372
+  kepoi_name: &#34;K08167.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 196
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 197
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 197
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 198
+Datos sacados de PostgreSQL en: 12ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 198
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 199
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 200
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 201
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 201
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 201
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 201
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 202
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 202
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 202
+site {
+  rowid: 9457
+  kepoi_name: &#34;K08181.01&#34;
+}
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 202
+site {
+  rowid: 9458
+  kepoi_name: &#34;K08182.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 202
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 202
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 202
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 202
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 203
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 204
+site {
+  rowid: 9115
+  kepoi_name: &#34;K08237.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 205
+site {
+  rowid: 9420
+  kepoi_name: &#34;K08285.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 206
+site {
+  rowid: 9069
+  kepoi_name: &#34;K08018.01&#34;
+}
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 206
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 207
+site {
+  rowid: 9532
+  kepoi_name: &#34;K08093.01&#34;
+}
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 207
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 207
+site {
+  rowid: 9350
+  kepoi_name: &#34;K08130.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 207
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 207
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 207
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 208
+site {
+  rowid: 9006
+  kepoi_name: &#34;K08105.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 208
+site {
+  rowid: 9373
+  kepoi_name: &#34;K08168.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 208
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 209
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 210
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 210
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 211
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 211
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 212
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 213
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 214
+site {
+  rowid: 9418
+  kepoi_name: &#34;K08283.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 214
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 215
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 215
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 216
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 216
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 216
+site {
+  rowid: 9412
+  kepoi_name: &#34;K08173.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 216
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 216
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 216
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 216
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 216
+site {
+  rowid: 9415
+  kepoi_name: &#34;K08176.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 217
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 218
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 219
+site {
+  rowid: 9240
+  kepoi_name: &#34;K08257.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 220
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 221
+site {
+  rowid: 9478
+  kepoi_name: &#34;K08252.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 222
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 223
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 223
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 223
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 223
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 224
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 224
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 225
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 226
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 227
+site {
+  rowid: 9418
+  kepoi_name: &#34;K08283.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 227
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 228
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 229
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 229
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 229
+site {
+  rowid: 9409
+  kepoi_name: &#34;K08072.01&#34;
+}
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 229
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 230
+site {
+  rowid: 9168
+  kepoi_name: &#34;K08026.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 231
+site {
+  rowid: 9478
+  kepoi_name: &#34;K08252.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 232
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 232
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 232
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 232
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 232
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 233
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 234
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 234
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 234
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 235
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 236
+site {
+  rowid: 9367
+  kepoi_name: &#34;K08067.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 236
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 237
+site {
+  rowid: 9367
+  kepoi_name: &#34;K08067.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 238
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 238
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 238
+site {
+  rowid: 9327
+  kepoi_name: &#34;K08163.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 239
+site {
+  rowid: 9493
+  kepoi_name: &#34;K08087.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 240
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 241
+site {
+  rowid: 9254
+  kepoi_name: &#34;K08096.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 242
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 243
+site {
+  rowid: 9493
+  kepoi_name: &#34;K08087.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 244
+site {
+  rowid: 9367
+  kepoi_name: &#34;K08067.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 244
+site {
+  rowid: 9215
+  kepoi_name: &#34;K08083.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 244
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 244
+site {
+  rowid: 9459
+  kepoi_name: &#34;K08183.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 244
+site {
+  rowid: 9278
+  kepoi_name: &#34;K08152.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 244
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 245
+site {
+  rowid: 9414
+  kepoi_name: &#34;K08175.01&#34;
+}
+Datos sacados de PostgreSQL en: 9ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 245
+site {
+  rowid: 9213
+  kepoi_name: &#34;K08075.01&#34;
+}
+Datos sacados de PostgreSQL en: 10ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 245
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 245
+site {
+  rowid: 9529
+  kepoi_name: &#34;K08090.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 246
+site {
+  rowid: 9033
+  kepoi_name: &#34;K08006.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 247
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 247
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 248
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 248
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 249
+site {
+  rowid: 9369
+  kepoi_name: &#34;K08165.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 250
+site {
+  rowid: 9282
+  kepoi_name: &#34;K08157.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 251
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 251
+site {
+  rowid: 8975
+  kepoi_name: &#34;K08208.01&#34;
+}
+site {
+  rowid: 8976
+  kepoi_name: &#34;K08208.02&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 252
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 253
+Datos sacados de PostgreSQL en: 12ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 253
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 254
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 254
+site {
+  rowid: 9453
+  kepoi_name: &#34;K08080.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 255
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 256
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 256
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 256
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 257
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 258
+site {
+  rowid: 9325
+  kepoi_name: &#34;K08161.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 259
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 259
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 260
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 261
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 262
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 262
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 262
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 262
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 262
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 262
+site {
+  rowid: 9041
+  kepoi_name: &#34;K08114.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 263
+site {
+  rowid: 9409
+  kepoi_name: &#34;K08072.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 263
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 264
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 264
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 265
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 266
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 266
+site {
+  rowid: 9365
+  kepoi_name: &#34;K08065.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 266
+site {
+  rowid: 9301
+  kepoi_name: &#34;K08151.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 266
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 266
+site {
+  rowid: 9283
+  kepoi_name: &#34;K08158.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 266
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 267
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 268
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 269
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 270
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 270
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 271
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 272
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 273
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 274
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 274
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 274
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 274
+site {
+  rowid: 9113
+  kepoi_name: &#34;K08235.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 275
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 276
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 276
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 277
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 277
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 277
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 278
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 278
+site {
+  rowid: 9279
+  kepoi_name: &#34;K08153.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 278
+site {
+  rowid: 9333
+  kepoi_name: &#34;K08274.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 279
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 279
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 280
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 281
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 282
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 282
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 283
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 283
+site {
+  rowid: 9197
+  kepoi_name: &#34;K08249.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 284
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 284
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 285
+site {
+  rowid: 9070
+  kepoi_name: &#34;K08118.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 286
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 287
+site {
+  rowid: 8969
+  kepoi_name: &#34;K08100.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 288
+site {
+  rowid: 9351
+  kepoi_name: &#34;K08164.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 289
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 290
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 290
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 290
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 291
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 292
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 293
+site {
+  rowid: 9144
+  kepoi_name: &#34;K08133.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 294
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 294
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 294
+site {
+  rowid: 9533
+  kepoi_name: &#34;K08094.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 294
+site {
+  rowid: 9393
+  kepoi_name: &#34;K08254.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 295
+site {
+  rowid: 9242
+  kepoi_name: &#34;K08259.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 295
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 295
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 295
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 295
+site {
+  rowid: 9497
+  kepoi_name: &#34;K08186.01&#34;
+}
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 295
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 296
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 297
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 298
+site {
+  rowid: 9302
+  kepoi_name: &#34;K08156.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 299
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 299
+site {
+  rowid: 9450
+  kepoi_name: &#34;K08077.01&#34;
+}
+Datos sacados de PostgreSQL en: 10ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 299
+site {
+  rowid: 8974
+  kepoi_name: &#34;K08207.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 300
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 301
+site {
+  rowid: 9273
+  kepoi_name: &#34;K08049.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 302
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 303
+site {
+  rowid: 9232
+  kepoi_name: &#34;K08045.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 304
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 305
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 306
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 307
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 308
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 309
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 309
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 310
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 311
+site {
+  rowid: 9115
+  kepoi_name: &#34;K08237.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 311
+site {
+  rowid: 9501
+  kepoi_name: &#34;K08296.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 311
+site {
+  rowid: 9172
+  kepoi_name: &#34;K08038.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 312
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 313
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 314
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 314
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 314
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 314
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 315
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 315
+site {
+  rowid: 9003
+  kepoi_name: &#34;K08003.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 316
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 316
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 316
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 316
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 317
+site {
+  rowid: 9348
+  kepoi_name: &#34;K08211.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 317
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 318
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 319
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 319
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 320
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 320
+site {
+  rowid: 9410
+  kepoi_name: &#34;K08073.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 321
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 322
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 323
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 324
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 325
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 326
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 327
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 327
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 327
+site {
+  rowid: 9192
+  kepoi_name: &#34;K08142.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 328
+site {
+  rowid: 9045
+  kepoi_name: &#34;K08221.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 329
+site {
+  rowid: 9032
+  kepoi_name: &#34;K08005.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 329
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 330
+site {
+  rowid: 9497
+  kepoi_name: &#34;K08186.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 330
+site {
+  rowid: 9148
+  kepoi_name: &#34;K08137.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 330
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 331
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 332
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 333
+site {
+  rowid: 9317
+  kepoi_name: &#34;K08055.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 334
+site {
+  rowid: 9039
+  kepoi_name: &#34;K08112.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 335
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 336
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 336
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 337
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 337
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 337
+site {
+  rowid: 9237
+  kepoi_name: &#34;K08149.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 338
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 339
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 340
+site {
+  rowid: 9170
+  kepoi_name: &#34;K08060.01&#34;
+}
+site {
+  rowid: 9211
+  kepoi_name: &#34;K08060.02&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 341
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 341
+site {
+  rowid: 8970
+  kepoi_name: &#34;K08101.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 342
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 342
+site {
+  rowid: 9377
+  kepoi_name: &#34;K08278.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 342
+site {
+  rowid: 9012
+  kepoi_name: &#34;K08213.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 343
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 343
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 344
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 345
+site {
+  rowid: 9144
+  kepoi_name: &#34;K08133.01&#34;
+}
+Datos sacados de PostgreSQL en: 8ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 345
+site {
+  rowid: 9111
+  kepoi_name: &#34;K08233.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 346
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 347
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 348
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 348
+site {
+  rowid: 9413
+  kepoi_name: &#34;K08174.01&#34;
+}
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 348
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 349
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 350
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 350
+site {
+  rowid: 9228
+  kepoi_name: &#34;K08041.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 350
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 350
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 350
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 350
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 350
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 351
+site {
+  rowid: 9143
+  kepoi_name: &#34;K08032.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 352
+site {
+  rowid: 8969
+  kepoi_name: &#34;K08100.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 353
+Datos sacados de PostgreSQL en: 15ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 353
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 353
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 354
+site {
+  rowid: 9106
+  kepoi_name: &#34;K08125.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 355
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 356
+site {
+  rowid: 9141
+  kepoi_name: &#34;K08030.01&#34;
+}
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 357
+site {
+  rowid: 9008
+  kepoi_name: &#34;K08107.01&#34;
+}
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 357
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 358
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 358
+Datos sacados de PostgreSQL en: 6ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 358
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 359
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 360
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 360
+Datos sacados de PostgreSQL en: 7ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 360
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 361
+Datos sacados de PostgreSQL en: 9ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 361
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 362
+Datos sacados de PostgreSQL en: 8ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 362
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 363
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 364
+Datos sacados de Redis en: 0ms
+
+Contador aciertos caché: 365
+site {
+  rowid: 9490
+  kepoi_name: &#34;K08084.01&#34;
+}
+Datos sacados de PostgreSQL en: 5ms
+Almacenado en el redis myredis1
+Contador aciertos caché: 365
+site {
+  rowid: 9517
+  kepoi_name: &#34;K08295.01&#34;
+}

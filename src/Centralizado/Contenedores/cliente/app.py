@@ -12,13 +12,10 @@ import json, time
 global contador_cache
 contador_cache = 0
 
-global balanceador_entrecomillas
-balanceador_entrecomillas = 0
-
 app = Flask(__name__, template_folder='template')
 
 # Configuración de Redis, hosts, limpieza de cache
-redis_hosts = ["myredis1", "myredis2", "myredis3"]
+redis_hosts = ["myredis1"]
 redis_instances = [redis.Redis(host=host, port=6379, db=0) for host in redis_hosts]
 [redis_instance.flushall() for redis_instance in redis_instances]
 
@@ -50,7 +47,6 @@ def index():
 def search():
     # Avisamos que trabajaremos con las variables globales
     global contador_cache
-    global balanceador_entrecomillas
 
     # Captura el tiempo de inicio de la operación
     mystart = time.time()
@@ -71,13 +67,9 @@ def search():
     if all(value is None for value in cache_search):
         # Le pedimos la data al servidor
         data = client.get_url(message=myquery)
-
-        if balanceador_entrecomillas == 3:
-            balanceador_entrecomillas = 0
         # Almacena los datos en la instancia de Redis
-        redis_instances[balanceador_entrecomillas].set(myquery, str(data))
-        redis_selected = "Almacenado en el redis " + str(balanceador_entrecomillas+1)
-        balanceador_entrecomillas += 1
+        redis_instances[0].set(myquery, str(data))
+        redis_selected = "Almacenado en el redis " + str(redis_hosts[0])
         # Renderizamos el html con los datos obtenidos de PostgreSQL
         return render_template('index.html', mydata=data, procedencia="Datos sacados de PostgreSQL en: " + str(int((time.time() - mystart) * 1000)) + "ms", redis_selected=redis_selected, contador=contador_cache)
     else:
