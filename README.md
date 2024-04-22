@@ -19,7 +19,7 @@ _(Espacio para instrucciones de configuración y ejecución)_
 
 ## Informe Final
 
-El informe final del proyecto se encuentra en el directorio `report/` o en el link de edicion: [https://www.overleaf.com/5468358637jkbgvrcbsphk#8d2fc7](https://www.overleaf.com/read/nwsqjrpkkycb#55c6e2). El cual contiene un análisis de los resultados obtenidos, comparaciones entre las diferentes configuraciones de caché, y respuestas a las preguntas planteadas en el enunciado del proyecto.
+El informe final del proyecto se encuentra en el directorio `report/`. El cual contiene un análisis de los resultados obtenidos, comparaciones entre las diferentes configuraciones de caché, y respuestas a las preguntas planteadas en el enunciado del proyecto.
 
 ## Contacto
 
